@@ -38,11 +38,11 @@ class _MyAppState extends State<MyApp> {
                     'mp_amount': '1.01',
 
                     // Mandatory String. Values obtained from MOLPay
-                    'mp_username': 'api_rmsxdk_mobile',
-                    'mp_password': 'api_RMSxdk*20',
-                    'mp_merchant_ID': 'rmsxdk_mobile',
-                    'mp_app_name': 'mobile',
-                    'mp_verification_key': '536bc46c69ee05ae3a8cc894e5956b38',
+                    'mp_username': '',
+                    'mp_password': '',
+                    'mp_merchant_ID': '',
+                    'mp_app_name': '',
+                    'mp_verification_key': '',
 
                     // Mandatory String. Payment values
                     'mp_order_ID': '60186547890',
