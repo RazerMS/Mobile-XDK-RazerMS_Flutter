@@ -94,7 +94,7 @@ packages:
       name: rms_mobile_xdk_flutter
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.29.1"
+    version: "3.30.0"
   sky_engine:
     dependency: transitive
     description: flutter

@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - rms_mobile_xdk_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - rms_mobile_xdk_flutter (from `.symlinks/plugins/rms_mobile_xdk_flutter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  rms_mobile_xdk_flutter:
+    :path: ".symlinks/plugins/rms_mobile_xdk_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  rms_mobile_xdk_flutter: 4a9b67d0ee3c7f24137a2edecf3bb3b3d3a041a9
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.0
