@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
           child: new Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              new RaisedButton(
+              new ElevatedButton(
                 child: const Text('Start XDK'),
                 onPressed: () async {
 
