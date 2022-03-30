@@ -38,6 +38,17 @@ samples, guidance on mobile development, and a full API reference.
 
 [Installation](https://github.com/RazerMS/rms-mobile-xdk-flutter/wiki/Installation-Guidance)
 
+
+## Resources
+
+- GitHub:     https://github.com/RazerMS
+- Website:    https://merchant.razer.com/
+- Twitter:    https://twitter.com/Razer_MS
+- YouTube:    https://www.youtube.com/c/RazerMerchantServices
+- Facebook:   https://www.facebook.com/RazerMerchantServices/
+- Instagram:  https://www.instagram.com/RazerMerchantServices/
+
+
 ## Support
 
 Submit issue to this repository or email to our support-sa@razer.com
