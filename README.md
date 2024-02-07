@@ -5,8 +5,8 @@
 
 <img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
 
-This is the beta but functional Razer Merchant Services Flutter payment module that is ready to be implemented into any Flutter project. An example application project is provided for Razer Merchant Services XDK framework integration reference.
-RMS Mobile Payment for Flutter
+This is a working Flutter payment module for Razer Merchant Services that can be added to any Flutter project. Razer Merchant Services XDK framework integration reference includes a sample application project.
+Flutter's RMS Mobile Payment
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - Xcode version: 9 ++
 
-- Minimum target version: iOS 8
+- Minimum target version: iOS 11
 
 ## Installation Guidance
 
