@@ -12,7 +12,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-
   @override
   void initState() {
     super.initState();
@@ -32,7 +31,6 @@ class _MyAppState extends State<MyApp> {
               new ElevatedButton(
                 child: const Text('Start XDK'),
                 onPressed: () async {
-
                   var paymentDetails = {
                     // Mandatory String. A value more than '1.00'
                     'mp_amount': '1.01',
@@ -50,7 +48,8 @@ class _MyAppState extends State<MyApp> {
                     'mp_country': 'MY',
 
                     // Optional String.
-                    'mp_channel': 'multi', // Use 'multi' for all available channels option. For individual channel seletion, please refer to "Channel Parameter" in "Channel Lists" in the MOLPay API Spec for Merchant pdf.
+                    'mp_channel':
+                        'multi', // Use 'multi' for all available channels option. For individual channel seletion, please refer to "Channel Parameter" in "Channel Lists" in the MOLPay API Spec for Merchant pdf.
                     'mp_bill_description': 'description',
                     'mp_bill_name': 'name',
                     'mp_bill_email': 'example@mail.com',
@@ -94,8 +93,8 @@ class _MyAppState extends State<MyApp> {
                     // 'mp_dev_mode' : true
                   };
 
-                  String result = await MobileXDK.start(paymentDetails);
-                  print("Result" + result);
+                  String? result = await MobileXDK.start(paymentDetails);
+                  print("Result" + result.toString());
                 },
               ),
             ],

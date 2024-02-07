@@ -1,11 +1,17 @@
 PODS:
   - Flutter (1.0.0)
+  - rms-mobile-xdk-cocoapods (3.32.1)
   - rms_mobile_xdk_flutter (0.0.1):
     - Flutter
+    - rms-mobile-xdk-cocoapods (~> 3.32.1)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
   - rms_mobile_xdk_flutter (from `.symlinks/plugins/rms_mobile_xdk_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - rms-mobile-xdk-cocoapods
 
 EXTERNAL SOURCES:
   Flutter:
@@ -14,9 +20,10 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/rms_mobile_xdk_flutter/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
-  rms_mobile_xdk_flutter: 4a9b67d0ee3c7f24137a2edecf3bb3b3d3a041a9
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  rms-mobile-xdk-cocoapods: 2f82a706eb243dffdeb6ce1e02af83ea32365be9
+  rms_mobile_xdk_flutter: 9b6b79d41bad957efed380d25019561e27e6e58c
 
 PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.14.3
