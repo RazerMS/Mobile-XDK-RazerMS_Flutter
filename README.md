@@ -8,6 +8,18 @@
 This is a working Flutter payment module for Razer Merchant Services that can be added to any Flutter project. Razer Merchant Services XDK framework integration reference includes a sample application project.
 Flutter's RMS Mobile Payment
 
+<img src="https://github.com/Naloff67/Mobile-XDK-RazerMS_Flutter/assets/89504625/ac496bd7-9ff5-4c7e-8a66-66aa670936e5">
+
+
+
+## How does it work ? 
+
+ 1. User chooses the Payment option they wish to pay with 
+ 2. Press "Proceed"
+ 3. Complete the Transaction. 
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter
