@@ -50,7 +50,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Installation Guidance
 
-[Installation](https://github.com/RazerMS/rms-mobile-xdk-flutter/wiki/Installation-Guidance)
+[Installation](https://github.com/Naloff67/Mobile-XDK-RazerMS_Flutter/wiki/Installation-Guide)
 
 
 ## Resources
