@@ -34,13 +34,15 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Recommended configurations
 
-- Minimum Android SDK Version: 27 ++
+- Minimum Android SDK Version: 29 ++
 
 - Minimum Android API level: 19 ++
 
 - Minimum Android target version: Android 4.4
 
-- Minimum Flutter version : 0.2.8 ++
+- Minimum Flutter version : 1.20.0 ++
+
+- Minimum Dart version : 3.2.0 ++
 
 - Xcode version: 9 ++
 
