@@ -18,13 +18,20 @@ Flutter's RMS Mobile Payment
 
 <img src="https://github.com/Naloff67/Mobile-XDK-RazerMS_Flutter/assets/89504625/ac496bd7-9ff5-4c7e-8a66-66aa670936e5">
 
- 1. User chooses the Payment option they wish to pay with 
- 2. Press "Proceed"
- 3. Complete the Transaction. 
+ 1. User chooses the Payment option/Bank they wish to pay with 
+ 2. Press "Proceed".
+ 3. input your bank credentials until finish payment. 
+ 4. Complete the Transaction. 
 
+#### Note :
 
+you must be a registered Razer merchant to receive your own credentials for you to use or test this plugin.
+
+To do so you can contact us here : sales-sa@razer.com
 
 ## Getting Started
+
+Follow the "get started" guide to install flutter here : https://docs.flutter.dev/get-started/install
 
 This project is a starting point for a Flutter
 [plug-in package](https://flutter.dev/developing-packages/),
@@ -36,7 +43,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## Recommended configurations
+## Prerequisite 
+
+For the plugin to work, below are the minimum requirements needed :
+
 
 - Minimum Android SDK Version: 29 ++
 
@@ -52,9 +62,11 @@ samples, guidance on mobile development, and a full API reference.
 
 - Minimum target version: iOS 11
 
-## Installation Guidance
+## How to Install ? 
 
-[Installation](https://github.com/Naloff67/Mobile-XDK-RazerMS_Flutter/wiki/Installation-Guide)
+Below is the installation guide to implement Razer XDK into your project. 
+
+[Click me to install now !](https://github.com/Naloff67/Mobile-XDK-RazerMS_Flutter/wiki/Installation-Guide)
 
 
 ## Resources
