@@ -25,7 +25,7 @@ Flutter's RMS Mobile Payment
 
 #### Note :
 
-you must be a registered Razer merchant to receive your own credentials for you to use or test this plugin.
+you must be a registered Razer merchant to receive your own credentials for you to use or test this module.
 
 To do so you can contact us here : sales-sa@razer.com
 
@@ -45,7 +45,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Prerequisite 
 
-For the plugin to work, below are the minimum requirements needed :
+For the module to work, below are the minimum requirements needed :
 
 
 - Minimum Android SDK Version: 29 ++
