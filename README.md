@@ -16,7 +16,7 @@ Flutter's RMS Mobile Payment
 
 ## How does it work ? 
 
-<img src="https://github.com/Naloff67/Mobile-XDK-RazerMS_Flutter/assets/89504625/ac496bd7-9ff5-4c7e-8a66-66aa670936e5">
+![image](https://github.com/Naloff67/Mobile-XDK-RazerMS_Flutter/assets/89504625/d660d61d-42f5-4f21-a9ee-ff4555e4c2fc)
 
  1. User chooses the Payment option/Bank they wish to pay with 
  2. Press "Proceed".
