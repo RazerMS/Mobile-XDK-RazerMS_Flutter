@@ -9,11 +9,6 @@ This is a working Flutter payment module for Razer Merchant Services that can be
 Flutter's RMS Mobile Payment
 
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxsNG9xNmU4MGo2YnhmcHNqZzh6MHA3Z2hjdDZjMDQ5a2ZqdGV4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UpzS59GnsjU6nkMfbS/giphy.gif)
-
-
-
-
 ## How does it work ? 
 
 ![image](https://github.com/Naloff67/Mobile-XDK-RazerMS_Flutter/assets/89504625/d660d61d-42f5-4f21-a9ee-ff4555e4c2fc)
