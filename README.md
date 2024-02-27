@@ -43,19 +43,19 @@ samples, guidance on mobile development, and a full API reference.
 For the module to work, below are the minimum requirements needed :
 
 
-- Minimum Android SDK Version: 29 ++
+- Android SDK Version: 29 ++
 
-- Minimum Android API level: 19 ++
+- Android API level: 19 ++
 
-- Minimum Android target version: Android 4.4
+- Android target version: Android 4.4
 
-- Minimum Flutter version : 1.20.0 ++
+- Flutter version : 1.20.0 ++
 
-- Minimum Dart version : 3.2.0 ++
+- Dart version : 3.2.0 ++
 
 - Xcode version: 9 ++
 
-- Minimum target version: iOS 11
+- target version: iOS 11
 
 ## How to Install ? 
 
