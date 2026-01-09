@@ -36,7 +36,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Installation Guidance
 
-[Installation](https://github.com/FiuuPayment/Mobile-XDK-Fiuu_Flutter/wiki/Installation-Guidance)
+[Installation](https://github.com/RazerMS/rms-mobile-xdk-flutter/wiki/Installation-Guidanc)
 
 
 ## Resources
