@@ -8,6 +8,11 @@
 This is the beta but functional Razer Merchant Services Flutter payment module that is ready to be implemented into any Flutter project. An example application project is provided for Razer Merchant Services XDK framework integration reference.
 RMS Mobile Payment for Flutter
 
+ UPDATE NOTICE
+-----------------
+Latest Mobile XDK Flutter moved to new URL https://github.com/FiuuPayment/Mobile-XDK-Fiuu_Flutter
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter
